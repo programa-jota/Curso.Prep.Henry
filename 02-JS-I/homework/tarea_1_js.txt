@@ -1,0 +1,14 @@
+¿Que es una Variable? 
+    Una Variable es como un contenedor en el cual guardo diferetes tipos de cosas, para que despues, un abridor de
+    contendores sepa que es lo hay dentro y pueda usarlo.
+¿Que es un Strings?
+    Un String es una cadena de texto que a diferencia de los numeros se tienen que escribir entre comillas (""), esto, para que 
+    el interprete lo entienda. 
+¿Que es una Función?
+    Es como una maquina que al ingresar algo lo transforma y le da una salida. Estas entradas son definidas como argumentos en los que ofrecemos
+    lo que necesita la maquina para funcionar. Dependiendo de la configuracion de la maquina la salida va a ser diferente.
+¿Que es un Declaracion (if)?
+    Es una maquina que tiene un condicional, dependiendo de si cumple con al condicion dada retorna un valor.
+¿Que es una valores Booleanos?
+    Son los valores verdadero o falso que puede tomar una operación.
+    
