@@ -1,0 +1,8 @@
+¿Qué es &&?
+Cuando utilizo este operador necesito que las dos condiciones se cumpla para que sea verdadero.
+¿Qué es ||?
+Cuando utilizo este operador necesito que al menos una de las condiciones se cumpla para que sea verdadero.
+¿Qué es !?
+Es un operador que me permite negar algo en el codigo y me devuelve un valor boleano.
+¿Qué es for?
+Cuando necesito repetir un bloque de codigo muchas veces, for es el statement que me ayuda a hacer eso.
